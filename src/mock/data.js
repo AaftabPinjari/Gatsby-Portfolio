@@ -28,6 +28,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'signal.jpg',
+    title: 'Signal',
+    info: 'An App made which works on all platforms',
+    info2: 'Made with Technologie React Native and Backend from firebase and compatible with Android, iOS, Web',
+    url: 'https://signal-42e49.web.app/',
+    repo: 'https://github.com/AaftabPinjari/chat-app',
+  },
+  {
+    id: nanoid(),
     img: '01.jpg',
     title: 'Hear Us',
     info: 'An Internship Project to make the Website of Company Responsive and SEO Friendly.',
